@@ -8,6 +8,7 @@
 - <b>Linux Labs</b>
   - [Find Files with Linux Commands](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/project-title-6)
 
+  - [Filter with Grep](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/filter-with-grep)
 
 <h2>Certifications</h2>
 
