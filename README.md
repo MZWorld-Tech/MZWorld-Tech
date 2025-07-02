@@ -6,9 +6,11 @@
   - [Active Directory Home Lab with PowerShell](https://github.com/dotheprojectlater)
 
 - <b>Linux Labs</b>
-  - [Find Files with Linux Commands](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/project-title-6)
+  - [Find files with Linux commands](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/project-title-6)
 
   - [Filter with Grep](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/filter-with-grep)
+
+  - [Manage files with Linux commands](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/manage-files-with-linux-commands)
 
 <h2>Certifications</h2>
 
