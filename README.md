@@ -15,7 +15,7 @@
 <h2>Certifications</h2>
 
 - <b>Microsoft Cybersecurity Anaylst</b>
-  - [Microsoft Cybersecurity Anaylst certificate......completed April 2025](https://github.com/dotheprojectlater)
+  - [Microsoft Cybersecurity Anaylst certificate......completed April 2025](https://mzworldtech.wixsite.com/mikel-white-cybersec)
 
 - <b>Google Cybersecurity</b>
   - [Google Cybersecurity certificate......completed July 2025](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/project-title-6)
