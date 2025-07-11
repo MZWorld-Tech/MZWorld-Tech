@@ -1,11 +1,18 @@
 <h1>Hi, My name is Mikel White!
 
-<h2>👨‍💻Cybersecurity Projects:</h2>
+<h2>👨‍💻Cybersecurity Projects and Labs:</h2>
 
 - <b>Active Directory Labs</b>
   - [Active Directory Home Lab with PowerShell](https://github.com/dotheprojectlater)
 
-- <b>Linux Labs</b>
+
+- <b>Portfolio Projects</b>
+  - [Fle Permissions in Linux Portfolio Project](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/file-permissions-in-linux-portfolio-project)
+
+  - [Apply Filters to SQL Queries](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/apply-filters-to-sql-queries)
+
+
+- <b>Portfolio Labs</b>
   - [Find files with Linux commands](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/project-title-6)
 
   - [Filter with Grep](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/filter-with-grep)
