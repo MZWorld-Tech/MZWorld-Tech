@@ -19,6 +19,16 @@
 
   - [Manage files with Linux commands](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/manage-files-with-linux-commands)
 
+
+
+<h2>📺 Real World Experiences</h2>
+
+- [Troubleshooting Voip and Installing Cisco Switch Boards](https://www.youtube.com/dothisatalaterdate)
+
+- [Troubleshooting LAN Connectivity and Iot devices](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/real-life-experience/troubleshooting-lan-connectivity-and-iot-devices)
+
+
+
 <h2>Certifications</h2>
 
 - <b>Microsoft Cybersecurity Anaylst</b>
@@ -28,9 +38,6 @@
   - [Google Cybersecurity certificate......completed July 2025](https://mzworldtech.wixsite.com/mikel-white-cybersec/portfolio-collections/my-portfolio/project-title-6)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Active Dircetory Video](https://www.youtube.com/dothisatalaterdate)
 
 
 <h2> 🤳 Connect with me:</h2>
