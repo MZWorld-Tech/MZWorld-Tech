@@ -40,7 +40,12 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Youtube Videos:</h2>
+
+- <b>Network+ Video Breakdowns produced by MZWorldTech</b>
+  - [The OSI Model Explained in Plain English (You’ll Never Forget It Again!) 🍰](https://www.youtube.com/watch?v=YXUzp81t6zs&t=94s)
+
+  - [TCP vs UDP Explained in Plain English | Real-Life Examples (Network+ Study Guide)](https://www.youtube.com/watch?v=C4WMgXqa-Qs)
 
 
 [linkedin]: https://www.linkedin.com/in/mikel-white-658290293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
